@@ -1,0 +1,5 @@
+# replace all teh values with actual values before running
+secret=<client_secret
+subscriptionID=<subscription_id>
+clientID=<client_id>
+tenantID=<tenant_id>
